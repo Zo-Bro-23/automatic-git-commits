@@ -1,0 +1,159 @@
+{
+    "initialized": [
+        "icecream-app", "html-demo", "chess_timer", "GoogleApis", "log-module", "meme-bot", "test-license", "zoauth-demoApp", "my-family-alexa", "zsat-login-backend", "obs-voicemeeter-project", "family-tree", "zoauth", "zoauth-files", "jekyll/portfolio", "jekyll/vineyard-meadows", "my-website"
+    ],
+    "details": {
+        "automatic-git-commits": {
+            "description": "NOTE: NOT COMPLETED! Will create a repo on GitHub, initiliaze one locally, stage and commit all changes continuously AND pull and push periodically!!",
+            "private": false
+        },
+        "chrome-demo-extension": {
+            "description": "Demo extension for Chrome...",
+            "private": false
+        },
+        "cordova-test": {
+            "description": "Testing the amazing app Cordova...",
+            "private": false
+        },
+        "digits-of-pi": {
+            "description": "NOTE: NOT COMPLETED! Lotta tests with digits of Pi...",
+            "private": false
+        },
+        "discord-prank": {
+            "description": "Discord prank... Go to https://discord.com/developers, create a bot, and copy the id. Clone the repo, and add a file called cred.json in this format: {bot: 'yourUniqueId'}. Run index.js with NodeJS 14+ and add the bot to your server. You are ready to start pranking your friends!",
+            "private": false
+        },
+        "encrypt-aes": {
+            "description": "A simple module for encrypting and decrypting without any hassle...",
+            "private": false
+        },
+        "encrypt-aes-test": {
+            "description": "Testing the encrypt-aes module...",
+            "private": false
+        },
+        "encryption-from-scratch": {
+            "description": "NOTE: NOT COMPLETED! Inspired by MYP Math, trying to build an encryption module from scratch...",
+            "private": false
+        },
+        "gamepad-test-python-and-node": {
+            "description": "NOTE: NOT COMPLETED! Name says it all!",
+            "private": false
+        },
+        "hari-lesson": {
+            "description": "Teaching Hari...",
+            "private": true
+        },
+        "js-gps": {
+            "description": "Javascript GPS test...",
+            "private": false
+        },
+        "jupyter-test": {
+            "description": "Some files to see if Jupyter is over-hyped...",
+            "private": false
+        },
+        "live-stream-demo": {
+            "description": "Files needed for my livestream demo... The link will be added here after I upload it: ME: The only one using GitHub as a free file server... Lol!!",
+            "private": false
+        },
+        "logos": {
+            "description": "NOTE: NOT COMPLETED! Many of my half designed logos... Translation: Many == True; Lol!!",
+            "private": false
+        },
+        "milu_zms": {
+            "description": "Tried setting up another server for Milu to test ZMS...",
+            "private": true
+        },
+        "milu-gapdh-test": {
+            "description": "Tried a bit of gapdh with Milu...",
+            "private": true
+        },
+        "mousetrap-test": {
+            "description": "Testing Mousetrap... Spoiler alert: It failed!",
+            "private": false
+        },
+        "mummy-serverless-lesson": {
+            "description": "Heading says it all!",
+            "private": true
+        },
+        "obs-voicemeeter-integration-raw": {
+            "description": "Raw files for each of the servers used here: https://github.com/Zo-Bro-23/obs-voicemeeter-integration",
+            "private": false
+        },
+        "React-test": {
+            "description": "NOTE: NOT COMPLETED! Testing out React for the first time... Spoiler alert: It was the last time too!",
+            "private": false
+        },
+        "saarang-cv2-tutorial": {
+            "description": "Come on! You want me to write something?",
+            "private": true
+        },
+        "scrabble-app": {
+            "description": "NOTE: NOT COMPLETED! Backend + Builds for my Scrabble app...",
+            "private": false
+        },
+        "tello-trial": {
+            "description": "NOTE: NOT COMPLETED! Trying to fly my DJI Tello drone with Python!",
+            "private": false
+        },
+        "test-license": {
+            "description": "Figuring out licenses in GitHub for the first time...",
+            "private": false
+        },
+        "test-server": {
+            "description": "Test server to check out PKG vs Electron builds!",
+            "private": false
+        },
+        "trial": {
+            "description": "My trying out JavaScript for the first time! Was cute, so I kept it round...",
+            "private": false
+        },
+        "youtube-live-chat-api": {
+            "description": "NOTE: NOT COMPLETED! Trying to build a website which helps you customize and add YouTube live chat to OBS and other streaming software! Also planning to add banner support for showing special comments as banners...",
+            "private": false
+        },
+        "zalarm": {
+            "description": "My huge burglar alarm thing!",
+            "private": true
+        },
+        "zoauth-encryptions": {
+            "description": "NOTE: NOT COMPLETED! Trying to build an app which encrypts using your location... Only the encryption and decryption API is complete. Location thing doesn't work...",
+            "private": false
+        },
+        "zoauth-facebook-forward": {
+            "description": "Facebook won't allow forwards to localhost, so built this to fool them!",
+            "private": false
+        },
+        "zoauth-hosted-auth": {
+            "description": "NOTE: NOT COMPLETED! Hosted auth powered by ZoAuth!",
+            "private": false
+        },
+        "zoauth-logo": {
+            "description": "All the different logos... So many lol!!",
+            "private": false
+        },
+        "zoauth-test": {
+            "description": "Testing my very own module ZoAuth!!",
+            "private": false
+        },
+        "zsac": {
+            "description": "NOTE: NOT COMPLETED! Backend for my chat app! Frontend has many bugs though...",
+            "private": false
+        },
+        "zsat-login-bootstrap-backup": {
+            "description": "Backup only... May not be latest.",
+            "private": true
+        },
+        "zsat-login-final": {
+            "description": "Final bss file for ZSAT Login...",
+            "private": true
+        },
+        "zsat-pass": {
+            "description": "NOTE: NOT COMPLETED! Password manager for android. Supports fingerprint and pattern...",
+            "private": false
+        },
+        "zsat-signin-page-html-testing": {
+            "description": "Testing various input forms and buttons for my sign in page...",
+            "private": false
+        }
+    }
+}
